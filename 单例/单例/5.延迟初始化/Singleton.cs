@@ -27,6 +27,5 @@ namespace 单例._5.延迟初始化
                 instance = new Singleton();
             }
         }
-
     }
 }
